@@ -1,0 +1,1 @@
+module.exports.inventoryRoutes = require("./inventory.route")
