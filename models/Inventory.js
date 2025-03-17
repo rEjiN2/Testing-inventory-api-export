@@ -33,7 +33,6 @@ const inventorySchema = new Schema(
     },
     vin: {
       type: String,
-      index: true,
     },
     make: {
       type: mongoose.Types.ObjectId,
